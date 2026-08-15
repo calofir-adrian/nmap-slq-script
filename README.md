@@ -54,7 +54,7 @@ The scan results are automatically saved in the current working directory in a f
 
 - **Author:** Calofir Adrian
 - **GitHub:** [calofir-adrian](https://github.com/calofir-adrian)
-
+- **Tryhackme:** [calofir.adrian](https://tryhackme.com/p/calofir.adrian)
 ## Disclaimer
 
 This tool is created for educational purposes and authorized security auditing only. Scanning networks without prior permission from the owner is strictly prohibited and illegal.
